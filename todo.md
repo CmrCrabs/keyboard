@@ -1,0 +1,12 @@
+- [ ] change global plugins / libraries to local
+- [ ] check against hardware guide
+- [ ] check reset resistor
+- [ ] check flash module
+- [ ] check decoupling capacitors
+- [X] check voltage regulator
+- [X] check crystal
+- [ ] switch matrix schematic
+- [ ] oled screen schematic
+- [ ] rotary encoder schematic
+- [ ] slider schematic
+- [ ] addressable led matrix
